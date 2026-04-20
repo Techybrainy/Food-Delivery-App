@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery Platform",
+  "description": "Full-stack food ordering platform with React frontend, Express API, and a relational ordering database schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
